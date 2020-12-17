@@ -87,7 +87,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/sealove20/ecoleta
 
 # Go into the repository
 $ cd NLW-1.0/backend
@@ -111,7 +111,7 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/sealove20/ecoleta
 
 # Go into the repository
 $ cd NLW-1.0/frontent
@@ -129,7 +129,7 @@ $ yarn start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/sealove20/ecoleta
 
 # Go into the repository
 $ cd NLW-1.0/mobile
